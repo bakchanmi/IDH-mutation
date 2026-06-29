@@ -47,7 +47,3 @@ export_cnv_features.py
 ## Dataset
 
 The dataset used in this study is **not included** due to data sharing restrictions.
-
-## Citation
-
-Citation information will be updated after publication.
