@@ -1,0 +1,2 @@
+from fusion.fusion_model import LateFusionClassifier
+from fusion.multimodal_dataset import MultimodalDataset
