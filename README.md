@@ -31,6 +31,14 @@ The proposed framework consists of three major components:
   * Late-fusion strategy for integrating imaging and genomic representations
   * End-to-end IDH mutation prediction
 
+## Representation Visualization (t-SNE)
+
+The t-SNE visualization illustrates the learned feature distributions of different feature representations. The proposed multimodal representation achieves a clearer separation between IDH-mutant and IDH-wildtype samples compared with unimodal feature representations.
+
+<p align="center">
+<img src="figures/tsne.pdf" width="650">
+</p>
+
 ## Repository Structure
 
 ```text
