@@ -36,7 +36,7 @@ The proposed framework consists of three major components:
 The t-SNE visualization illustrates the learned feature distributions of different feature representations. The proposed multimodal representation achieves a clearer separation between IDH-mutant and IDH-wildtype samples compared with unimodal feature representations.
 
 <p align="center">
-<img src="figures/tSNE.pdf" width="650">
+<img src="figures/tSNE.png" width="650">
 </p>
 
 ## Repository Structure
